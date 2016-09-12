@@ -8,7 +8,7 @@ Pod::Spec.new do |s|
   s.authors      = { "liubin303" => "273631976@qq.com" }
   s.platform     = :ios, "7.0"
   s.frameworks   = 'Foundation', 'UIKit',
-  s.source       = { :git => "https://github.com/liubin303/NBCategory", :tag => "0.1.0" }
+  s.source       = { :git => "https://github.com/liubin303/NBCategory.git", :tag => "0.1.0" }
   s.source_files  = 'NBCategory', 'NBCategory/**/*.{h,m}'
   s.requires_arc = true
   
